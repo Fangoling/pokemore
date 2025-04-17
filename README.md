@@ -1,7 +1,7 @@
 # Pokemore
 
 ## Description
-Pokegram is a collection of experiments and implementations for building language models that generate new names — inspired by Pokémon, fantasy, or custom datasets.
+Pokemore is a collection of experiments and implementations for building language models that generate new names — inspired by Pokémonnames, or custom datasets.
 
 This project explores various techniques to train character-level models using PyTorch, and is heavily inspired by Andrej Karpathy’s “Zero to Hero” series and his makemore project.
 
